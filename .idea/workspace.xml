@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Vierescense:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75e329c4-1767-4f3c-994f-6fdeb91bc122" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Vierescense_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vierescense.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/druid-1.1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/DBUtils/DBUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/AdminDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/FirmDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/GoodsDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/PeopleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/DaoImpl/TrashDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/FirmDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/GoodsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/PeopleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Dao/TrashDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/FirmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/LogAndRegService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/PeopleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/ServiceImpl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/ServiceImpl/FirmServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/ServiceImpl/LogAndRegServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/Service/ServiceImpl/PeopleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/Firm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/com/vierescense/pojo/Trash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/classes/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Vierescense_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Controller/FirmController/TestHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/DBUtils/DBUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/AdminDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/AdminDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/FirmDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/GoodsDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/OrderDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/PeopleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/DaoImpl/TrashDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/FirmDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/GoodsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/PeopleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Dao/TrashDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/FirmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/LogAndRegService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/PeopleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/ServiceImpl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/ServiceImpl/FirmServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/ServiceImpl/LogAndRegServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/Service/ServiceImpl/PeopleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/Firm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/com/vierescense/pojo/Trash.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Vierescense/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Controller/FirmController/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/DBUtils/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/AdminDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/FirmDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/GoodsDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/PeopleDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/DaoImpl/TrashDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/FirmDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/GoodsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/PeopleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Dao/TrashDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/FirmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/LogAndRegService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/PeopleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/ServiceImpl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/ServiceImpl/FirmServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/ServiceImpl/LogAndRegServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/Service/ServiceImpl/PeopleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/Firm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/vierescense/pojo/Trash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\Java\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1hPVItpI8IYFkbXopqU2CRMnKC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Frame\Vierescense\lib" />
+      <recent name="D:\Frame\Vierescense\resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestHashMap">
+    <configuration name="TestHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vierescense.Controller.FirmController.TestHashMap" />
+      <module name="Vierescense" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vierescense.Controller.FirmController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.93" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.93" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="E:/Java/jre1.8.0_231">
+      <deployment>
+        <artifact name="Vierescense:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Vierescense_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_93_LandscapeEngineering" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7705" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Vierescense:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestHashMap" />
+      <item itemvalue="Tomcat Server.Tomcat 7.0.93" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestHashMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e329c4-1767-4f3c-994f-6fdeb91bc122" name="Default Changelist" comment="" />
+      <created>1599912637535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599912637535</updated>
+      <workItem from="1599912640994" duration="5067000" />
+      <workItem from="1599958062944" duration="3567000" />
+      <workItem from="1599964936492" duration="71000" />
+      <workItem from="1599968296117" duration="3777000" />
+      <workItem from="1599997148379" duration="4703000" />
+      <workItem from="1600043323289" duration="3790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="295" key="#Tomcat_Server" timestamp="1599997725448">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="542" y="295" key="#Tomcat_Server/0.0.1536.834@0.0.1536.834" timestamp="1599997725448" />
+    <state x="160" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599997903518">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="160" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1599997903518" />
+    <state x="569" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1599996757883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599996757883" />
+    <state x="388" y="95" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600048889932">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="388" y="95" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1600048889932" />
+    <state x="547" y="85" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1599997745688">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="547" y="85" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1599997745688" />
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599995700463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599995700463" />
+    <state x="179" y="145" key="FileChooserDialogImpl" timestamp="1600048830962">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="541" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599968410429" />
+    <state x="179" y="145" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600048830962" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1600002258011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600002258011" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1600002258011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600002258011" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1600002258011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600002258011" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1600002258011">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600002258011" />
+    <state width="1090" height="176" key="GridCell.Tab.1.bottom" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.1.center" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.1.left" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.1.right" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.2.bottom" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.2.center" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.2.left" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state width="1090" height="176" key="GridCell.Tab.2.right" timestamp="1600002257996">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1090" height="176" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1600002257996" />
+    <state x="270" y="62" key="SettingsEditor" timestamp="1600048689909">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600048689909" />
+    <state x="1" y="0" key="new project wizard" timestamp="1599968387785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1599968387785" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1599960172771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599960172771" />
+  </component>
+</project>
